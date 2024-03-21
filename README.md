@@ -26,7 +26,7 @@
 
   <h3 align="left">Conecte-se comigo 📬:</h3>
 <p align="left">
-<a href="linkedin.com/in/felipe-santos-novais-00634b294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe santos novais" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/felipe-santos-novais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe santos novais" height="30" width="40" /></a>
 <a href="discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
